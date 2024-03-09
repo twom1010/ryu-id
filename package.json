@@ -1,0 +1,26 @@
+{
+  "name": "@twomie/ryu-id",
+  "version": "1.0.0",
+  "description": "hallo tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twom1010/ryu-id.git"
+  },
+  "keywords": [
+    "TEA",
+    "Project"
+  ],
+  "author": "twom1010",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twom1010/ryu-id/issues"
+  },
+  "homepage": "https://github.com/twom1010/ryu-id#readme",
+  "dependencies": {
+    "ryu-id": "^1.0.0"
+  }
+}
